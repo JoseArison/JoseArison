@@ -1,3 +1,3 @@
 Estudante
 
-proeto
+projeto
